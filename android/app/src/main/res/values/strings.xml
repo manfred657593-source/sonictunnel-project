@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">npx cap add androidnpx cap copy</string>
-    <string name="title_activity_main">npx cap add androidnpx cap copy</string>
-    <string name="package_name">com.example.app</string>
-    <string name="custom_url_scheme">com.example.app</string>
+    <string name="app_name">SonicTunnel</string>
+    <string name="title_activity_main">SonicTunnel</string>
+    <string name="package_name">com.sonic.tunnel</string>
+    <string name="custom_url_scheme">com.sonic.tunnel</string>
 </resources>
