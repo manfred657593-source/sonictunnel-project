@@ -1,0 +1,6 @@
+node_modules
+dist
+build
+android/gradle-*.zip
+.DS_Store
+.envandroid/gradle-*.zip
